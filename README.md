@@ -4,4 +4,4 @@
 2. Create Logo and Upload to https://nft.storage/files/
 3. Use Logo URL in `tokenData.json` 
 4. Upload `tokenData.json` to IPFS and use in uri
-5. To Mint Token: `yarn index`
+5. To Mint Token: `node index`
