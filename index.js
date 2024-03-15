@@ -13,7 +13,7 @@ const umi = createUmi(clusterApiUrl('mainnet-beta')); // Replace YOUR_RPC_ENDPOI
 const tokenData = require('./tokenInfo.json')
 
 // IPFS URL of Uploaded TokenData.json()
-const tokenIPFS = "https://ipfs.io/ipfs/bafkreigyo4g7l6mhd4qjbq3uqw7ifhzpkfywhzllzbann23crstsu7vrmi"
+const tokenIPFS = "https://ipfs.io/ipfs/bafkreicwiajagkywx3mqaalzchfrgtin775z7outxbe2l7jtnm7cwsarsq"
 
 const setupAndMintToken = async () => {
     let minted = false
